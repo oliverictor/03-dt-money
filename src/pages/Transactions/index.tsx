@@ -8,7 +8,6 @@ export function Transactions() {
         <div>
             <Header />
             <Summary />
-
             <TransactionsContainer>
                 <SearchForm />
                 <TransactionsTable>
